@@ -1,6 +1,6 @@
 
 	var db = null;
-	var namedatabase = "db.0.0.4.4";
+	var namedatabase = "db.0.0.4.5";
 	var dbversion = '1.1';
 	var displayName = 'My Database';
 	//==========================================================================================================
