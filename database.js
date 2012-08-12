@@ -1,4 +1,5 @@
-
+	//me estoy reportanto ahora espero lo veas
+	
 	var db = null;
 	var namedatabase = "db.0.0.4.5";
 	var dbversion = '1.1';
